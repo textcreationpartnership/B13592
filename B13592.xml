@@ -1,0 +1,1107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honor triumphant. Or The peeres challenge, by armes defensible, at Tilt, Turney, and Barriers In honor of all faire ladies, and in defence of these foure positions following. 1. Knights in ladies seruice haue no free will. 2. Beauty is the mainteiner of valour. 3. Faire lady was neuer false. 4. Perfect louers are onely wise. Mainteined by arguments. Also The monarches meeting: or The King of Denmarkes welcome into England.</title>
+            <author>Ford, John, 1586-ca. 1640.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13592</idno>
+            <idno type="STC">STC 11160</idno>
+            <idno type="STC">ESTC S115119</idno>
+            <idno type="EEBO-CITATION">99850338</idno>
+            <idno type="PROQUEST">99850338</idno>
+            <idno type="VID">177174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 887:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honor triumphant. Or The peeres challenge, by armes defensible, at Tilt, Turney, and Barriers In honor of all faire ladies, and in defence of these foure positions following. 1. Knights in ladies seruice haue no free will. 2. Beauty is the mainteiner of valour. 3. Faire lady was neuer false. 4. Perfect louers are onely wise. Mainteined by arguments. Also The monarches meeting: or The King of Denmarkes welcome into England.</title>
+                  <author>Ford, John, 1586-ca. 1640.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by G. Eld] for Francis Burton,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A-F⁴; A1 and F4 are blanks.</note>
+                  <note>Dedication, A3v, has initials "I.F."; a variant has dedication signed in full.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courtship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177174:1" rendition="simple:additions"/>
+            <pb facs="tcp:177174:1"/>
+            <p>HONOR TRIVMPHANT.</p>
+            <p>OR The Peeres Chal<g ref="char:EOLhyphen"/>lenge, by Armes defenſible, at Tilt, Turney, and Barriers.</p>
+            <p>In Honor of all faire Ladies, and in defence of theſe foure poſitions following.
+<list>
+                  <item>1. <hi>Knights in Ladies ſeruice haue no free-will.</hi>
+                  </item>
+                  <item>2. <hi>Beauty is the mainteiner of valour.</hi>
+                  </item>
+                  <item>3. <hi>Faire Lady was neuer falſe.</hi>
+                  </item>
+                  <item>4. <hi>Perfect Louers are onely wiſe.</hi>
+                  </item>
+               </list> Mainteined by Arguments.</p>
+            <p>ALSO The Monarches meeting: OR The King of <hi>Denmarkes</hi> welcome into England.</p>
+            <q xml:lang="lat">
+               <hi>Tam Mercurio, quam Marti.</hi>
+            </q>
+            <p>AT LONDON Printed for <hi>Francis Burton.</hi> 1606.</p>
+         </div>
+         <div type="challenges">
+            <pb facs="tcp:177174:2"/>
+            <list>
+               <item n="1">
+                  <p>To the moſt noble Lord, the Duke of <hi>Lennox</hi> his grace.</p>
+                  <p>Firſt Poſition. <hi>Knights in Ladies ſeruice haue no free-will.</hi>
+                  </p>
+               </item>
+               <item n="2">
+                  <p>To the Right Honorable the Earle of <hi>Arundel.</hi>
+                  </p>
+                  <p>Second Poſition. <hi>Beauty is the mainteiner of valour.</hi>
+                  </p>
+               </item>
+               <item n="3">
+                  <p>To the Right Honorable the Earle of <hi>Pembrooke.</hi>
+                  </p>
+                  <p>Third Poſition. <hi>Faire Ladie was neuer falſe.</hi>
+                  </p>
+               </item>
+               <item n="4">
+                  <p>To the Right Honorable the Earle of <hi>Mountgomery.</hi>
+                  </p>
+                  <p>Fourth Poſition. <hi>Perfect louers are onely wiſe.</hi>
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177174:2"/>
+            <head>To the Rightly Honourable, and truely worthy Ladies, the Counteſſe of <hi>Pembrooke,</hi> and the Counteſſe of <hi>Mountgomerie.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>OST EXCELLENT LADIES.</salute>
+            </opener>
+            <p>Where perfect honour is ennobled with ac<g ref="char:EOLhyphen"/>compliſht perfection, Beauty is not ſcant: which euermore is the glorious ſhrine of honourable fauour: elſe had I miſconceited mine owne hopes, and beene grauelled in mine own con<g ref="char:EOLhyphen"/>ceipts: but my ſtrong confidence, is my confident war<g ref="char:EOLhyphen"/>rant: neither can ye diſtaſt that, which explanes, but what is done for you, what is done by yours. If the pleaſure ye ſhall take in the Defenders, who are yours, by the de<g ref="char:EOLhyphen"/>fence, which is for you, be great: then the acceptance cannot be leſſe, in reading the reaſons for that defence: eſpecially being to you deuoted: and onely to you de<g ref="char:EOLhyphen"/>uoted. What defects and weakely mainteyning argu<g ref="char:EOLhyphen"/>ments, in the arguments there are, your protection ſhal wipe off, and the trueth it ſelfe (which needes no luſtre) chiefly priuiledge. I affect no ſingularity, I boaſt no affe<g ref="char:EOLhyphen"/>ctation: yet can I not freeze in the one, when I am tem<g ref="char:EOLhyphen"/>perately heated with the other. To whom (noble Coun<g ref="char:EOLhyphen"/>teſſes)
+<pb facs="tcp:177174:3"/>ſhould I dedicate the ornaments of loue, and beauty? but to the beautifulleſt ornaments, worthy to be beloued. Neither doubt I, but as theſe endeauours were willingly intended, ſo will they as gratefully bee accepted. Otherwiſe (as I hope, as I feare not) I will be an alien to mine owne iſſue: as vnworthy to be chriſti<g ref="char:EOLhyphen"/>ned for mine, ſince diſ-eſteemed in being mine. Others, who oppoſe themſelues, if not by <hi>Mercury</hi> perſwa<g ref="char:EOLhyphen"/>ded, I referre to be by <hi>Mars</hi> enforced. So ad<g ref="char:EOLhyphen"/>uenturing at once all my deſerts, in your like or diſlike: I reſt.</p>
+            <closer>
+               <signed>Deuoted to your <hi>ho<g ref="char:EOLhyphen"/>nourable virtues,</hi> I. F.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177174:3"/>
+            <head>To euery ſundry opinioned <hi>Reader.</hi>
+            </head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Intend not to make any tedious Apologie: if thou be my friend, thou wilt cenſure friendly: if a ſtranger, indifferently: if an enemie, I e<g ref="char:EOLhyphen"/>ſteeme thee not. Then thus:</p>
+            <lg>
+               <l>
+                  <hi>I write not to content each cauelling braine,</hi>
+               </l>
+               <l>
+                  <hi>But eyes of nobleſt ſpirits: he that loues mee</hi>
+               </l>
+               <l>
+                  <hi>Will thanke my labours, and commend my veyne,</hi>
+               </l>
+               <l>
+                  <hi>For any others enuy, leaſt it moues mee.</hi>
+               </l>
+               <l>"He that will ſtorme at euery wrongfull hate,</l>
+               <l>
+                  <hi>"Muſt not referre it to deſert, but fate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Let Ladies ſmile vpon my lines, I care not</hi>
+               </l>
+               <l>
+                  <hi>For idle faults in grauer Cenſors eye:</hi>
+               </l>
+               <l>
+                  <hi>On whoſe opinion (truth it is) I dare not,</hi>
+               </l>
+               <l>
+                  <hi>The merit of my ſtudies to rely.</hi>
+               </l>
+               <l>
+                  <hi>Heere is the comfort, which doth cheere deſpaire,</hi>
+               </l>
+               <l>
+                  <hi>I ſhall be lik't not of the graue, but faire.</hi>
+               </l>
+            </lg>
+            <q xml:lang="lat">
+               <hi>Meritum rependant venuſtae.</hi>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177174:4"/>
+            <pb facs="tcp:177174:4"/>
+            <head>Honor tryumphant.</head>
+            <div n="1" type="part">
+               <head>TO THE RIGHT NO<g ref="char:EOLhyphen"/>ble Lord, the Duke of Lennox his Grace. Firſt Poſition.</head>
+               <argument>
+                  <p>Knights in Ladies ſeruice haue no free-will.</p>
+               </argument>
+               <opener>
+                  <salute>RIGHT NOBLE LORD,</salute>
+               </opener>
+               <p>HOw certaine it is, both by the tradition of anci<g ref="char:EOLhyphen"/>ent and moderne iudgements avowed, that <hi>eue<g ref="char:EOLhyphen"/>rie man is not borne for himſelfe;</hi> the communi<g ref="char:EOLhyphen"/>tie of the ſawe, and the authoritie of reaſon ſhall bee a Priuiledge ſufficient; but how much miſtaken both the Philoſophers of old and later <hi>Neotorickes</hi> haue been, their owne ignorance makes manifeſt: <hi>A man</hi> (ſay they) <hi>is partly borne for his Countrey, partly for his Parents, partly for his friends, nothing or (if any thing yet) leaſt and laſtly for himſelfe.</hi> True, yet had the ſen<g ref="char:EOLhyphen"/>ſible touch of paſsion toucht them with the feeling of a paſsionate ſence; how much more and more truely might they haue affirmed, that <hi>the chiefeſt creation of man was (next his owne ſoule) to doe homage to the excellent frame of beautie, a woman:</hi> A woman? the art of na<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:177174:5"/>the liuely perfection of heauens Architecture: for though
+<q>
+                     <l>
+                        <hi>Man be the little world where wonder lyes;</hi>
+                     </l>
+                     <l>yet <hi>Women are Saints aboue earth's Paradiſe.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>For what is he, who is ſo abſolute a Lord of himſelfe? ſo powerfull in his owne power? ſo free of his owne affections? as being enſnared in the pleaſing ſeruitude of a gracious beautie, can or durſt to vndertake any occaſion of remiſneſſe, but his own hart wil be the firſt guilty accuſer of his owne folly, and his ſincere repen<g ref="char:EOLhyphen"/>tance doe pennance in the language of griefe, in the griefe of deſpaire. Againe, what is he then, that be<g ref="char:EOLhyphen"/>ing free from this captiued happineſſe of loue, as it were diſdaining to ſtoope to the bondage of beautie, will not at length feele the miſerie of his ſcorne, and be ſcorned in the wracke of his miſerie? beſides, may hee not be deſperate of his owne merit, to thinke him<g ref="char:EOLhyphen"/>ſelfe the onely exiled abiect baniſhed from out the ac<g ref="char:EOLhyphen"/>ceptance of a Ladies fauour, as alſo his owne vnwor<g ref="char:EOLhyphen"/>thineſſe, which cannot deſerue ſo delicious a bleſsing? ſay then ſuch a one be entertained, as a happie ſeruant to a more glorious miſtreſſe: how ſoone, how much is his owne free rule of himſelfe indeered to the com<g ref="char:EOLhyphen"/>maund of a precious Goddeſſe, neither then hath he, neither is it meet he ſhould haue any more dominati<g ref="char:EOLhyphen"/>on ouer his owne affections. <hi>Mars</hi> throwes downe his weapons, and <hi>Venus</hi> leads him captiue, the luſtre of her eyes, and the glorie of her worth are of ſuch vnreſiſtable a force, as the weakneſſe of his manhood, or the aptneſſe of his frailtie, are neither able to en<g ref="char:EOLhyphen"/>dure the ones reflection, or withſtand the others temptation: how then? muſt he yeeld? true, not to cap<g ref="char:EOLhyphen"/>tiuitie,
+<pb facs="tcp:177174:5"/>but freedome; <hi>for to bee captiued to beautie, is to bee free to vertue:</hi> who would not put of an armour of hard ſteele and turne from his enemies, to be en<g ref="char:EOLhyphen"/>chained in pleaſure, and turne to a lady in a bed of ſoft down? <hi>fooliſh hardineſſe, is hardened fooliſhneſse, when ſecu<g ref="char:EOLhyphen"/>reſt loue is the loueliest ſecuritie.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="poem">
+                  <body>
+                     <lg>
+                        <l>Loue once was free from loue, and had a will</l>
+                        <l>To play the wanton wag, he ſtrooke full many,</l>
+                        <l>And tooke delight ſoft thoughts of eaſe to kill:</l>
+                        <l>Yet he himſelfe was neuer ſpoyid of any.</l>
+                        <l>Loue careleſſe would go walke, when by a groue</l>
+                        <l>Loue ſaw a Nymph, when ſtraight Loue fell in loue.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>Cupid</hi> with <hi>Pſiches</hi> fell in loue, whoſe beauty</l>
+                        <l>Dazled the lustre of his wandring eye:</l>
+                        <l>Forcing his heart deuote obſequious duty,</l>
+                        <l>Vnto the wonder of her diety.</l>
+                        <l>Herein was <hi>Cupid</hi> blind, who els could ſee</l>
+                        <l>Loue now captiu'd his heart, which earſt was free.</l>
+                     </lg>
+                     <lg>
+                        <l>Loue hath no power ere he gaine his reſt,</l>
+                        <l>But to impawne, ſweare, promiſe, and protest;</l>
+                        <l>Alas, what is it then that men in bed</l>
+                        <l>Will not vow, vrge, to gaine a maiden head:</l>
+                        <l>Which being got, they euer after stand</l>
+                        <l>Deuoted to their Ladies deere commaund.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+               <p>Then what man of reaſon is he, who would be ſo vnreaſonable in his owne deſires, to wiſh himſelfe ob<g ref="char:EOLhyphen"/>ſtinatly fooliſh; or thinke himſelfe fooliſhlie wife: by <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>ining his owne diſſolute infranchiſment, in the
+<pb facs="tcp:177174:6"/>boundleſſe limitts of his owne frantick wilfulneſſe? ſuch and of ſuch nature are they, who in the ranco<g ref="char:EOLhyphen"/>rous ſpleenes of an vnpreuailing rancour, durſt not onelie in the mallice of their tongues to ſpeake, but in the venome of their hearts, to copy out whole pamphlets againſt the dignitie of the female ſex: either without reſpect that they themſelues came from a woman, or without regard that a woman wrought the peace for their weak-ballac't ſoules: <hi>(oh but ſay ſuch)</hi> had not a woman beene the tempter and efficient of our fall, we had not needed a redemptions: alas ſillie betrayers of your owne follie? wretched blaſphemers againſt the perfection of nature? can ye not or will yee not vnderſtand that the bleſſing of this fall, is ſaluation? aſſurance of heauen? certainty of ioyes? yes it is doubt<g ref="char:EOLhyphen"/>leſly probable that women are, <hi>Natures pride, Vertues ornaments, Angels on earth, worthy to be ſerued, Saints in heauen, Memorable to be registred.</hi>
+               </p>
+               <q xml:lang="lat">
+                  <l>Ne ij ſunt amore digni,</l>
+                  <l>Quos indignos reijcit amor.</l>
+               </q>
+               <p>Would any man liue happie in content of mind? for<g ref="char:EOLunhyphen"/>tunate in proſperitie of content? ſingular in the repute of account? bleſſed in beeing inriched with earths ra<g ref="char:EOLhyphen"/>reſt blesſing? let him then ennoble his deſerts, by de<g ref="char:EOLhyphen"/>ſeruing to be beloued: of whome? of popular opinion or vnſtable vulgar dependances? no, but of loue it ſelfe <hi>a woman.</hi> Would any be miſerable? let him be exclu<g ref="char:EOLhyphen"/>ded from the fauour of beauty; &amp; it is a miſery incom<g ref="char:EOLhyphen"/>parable, a torment vnſpeakable, a death, yea a hell in<g ref="char:EOLunhyphen"/>ſufferable. How then comes it to paſſe that ſome vaine oppugners of loue thinke? that by ſeruing of a ladie,
+<pb facs="tcp:177174:6"/>they themſelues both honour in their loue, and ought to be honoured for louing of their beloued? it is eaſily anſwered, by the imperfection of their manhood, and pride of their groſſe erronious folly. For this in the rules of affection is text, <hi>Whoſoeuer truely loue, and are truly of their ladies beloued, ought in their ſeruice to employ their endeuours;</hi> more for the honour and deſeruing <hi>the continuance of their ladies good will, than any way to reſpect the</hi> Free-will <hi>of their owne heedleſse diſpoſi<g ref="char:EOLhyphen"/>tions,</hi> elſe are they degenerate Baſtards, and Apo<g ref="char:EOLhyphen"/>ſtates, reuolting from the principals, and princi<g ref="char:EOLhyphen"/>pall rules of ſincere deuotion. It is not ynough for any man that hath by long ſuit, tedious imprecations, ieopardous hazard, toyle of bodie, griefe of mind, pi<g ref="char:EOLhyphen"/>tifull laments, obſequious fawnings, deſperate paſsions, and paſsionate deſpaire; at length for a meed or requi<g ref="char:EOLhyphen"/>tall to his vnreſt, gained the fauourable acceprance, of his moſt and beſt deſired ladie: it is not I ſay then y<g ref="char:EOLhyphen"/>nough, for ſuch a man to thinke, that by his pennance in obtayning, he hath performed a Knights ſeruice ha<g ref="char:EOLhyphen"/>uing obtained: but he muſt thenceforth, as much em<g ref="char:EOLhyphen"/>ploy his induſtrie to preſerue. For well ſayd the Poet whoſoeuer ſayd it,
+<q xml:lang="lat">Non minor eſt virtus quam quaerere parta tueri.</q>
+               </p>
+               <p>Perfect ſeruice, and ſeruiceable loyaltie, is ſeene more cleerely in deſeruing loue and maintaining it, tha<g ref="char:cmbAbbrStroke">̄</g> in attempting or laboring for it. How can any one be ſayd truely to ſerue, when he more reſpects the li<g ref="char:EOLhyphen"/>bertie of his owne affections, than the impoſition of Ladies command? to attaine happineſſe, and then neg<g ref="char:EOLhyphen"/>lect it is but an vnhappie negligence, a negligent vn<g ref="char:EOLhyphen"/>happineſſe: it is an vnthankfull ingratitude, than which
+<pb facs="tcp:177174:7"/>nothing can be to heaue<g ref="char:cmbAbbrStroke">̄</g> more hainous, &amp; in the regard of men more deteſtable. Herein are certaine chuffes differing from the glorious nature of gentilitie; who hauing ſtumbled vpon the raritie of beautie, are cloyed in their owne delicacies: not prizing the inva<g ref="char:EOLhyphen"/>luable iewell of what they poſſeſſe, not eſteeming the benefit of their precious felicitie: but like ſwine touze pearle without reſpect, when as generous ſpirits glo<g ref="char:EOLhyphen"/>rie in their ample fortune: and ſubiect themſelues to their chiefeſt glorie, for to be a deſeruing ſeruant to a deſerued ladie, is liberally to enioy heauen on earth. If therefore the ſcope of mortalitie conſiſt in the frui<g ref="char:EOLhyphen"/>tion of imparadiſed content, or a contented paradiſe? how requiſite is it, that Knights (for vnder theſe titles of honour, doe I conclude true louers) ſhould looſe the freedome of their owne wils, to be ſeruiceable to the wils of their choyceſt ladies? who can ſerue two Maſters? who can be a maſter of himſelfe, when he is a ſeruant to his ladie? but either he ſcornes the humili<g ref="char:EOLhyphen"/>tie due to her, or affects a ſingularitie to himſelfe, if the one, he is no ſeruant; if the other, an vnfit louer Why? for becauſe a true louer muſt frame his actions to the beheſtes of his ladie, and magnifying her worthineſſe. Hence is it ſayd, and truely ſayd, <hi>Knights in ladies ſer<g ref="char:EOLhyphen"/>uice haue no free-will:</hi> that is, they ought not to be their owne, nor ſubiect to their owne pleaſure, vnleſſe to pleaſe themſelues in the recreation which tendeth to their ladies honour. How pithily ſayd a wiſe man,
+<q xml:lang="lat">Non amare decet, at amari praestat.</q>
+               </p>
+               <p>To loue, is common to ſenſualitie; but to be belo<g ref="char:EOLhyphen"/>ued, is the crown of deſert; they beſt deſerue to be be<g ref="char:EOLhyphen"/>loued, who deſerue loue; and they principally deſerue
+<pb facs="tcp:177174:7"/>loue, who can moderate their priuate affection, and leuell the ſcope of deſert, to the executing their ladies commaund, and adorne their names by martiall feates of armes. As for inſtance, <hi>Paris</hi> defended <hi>Hellen</hi> with the loſſe of his life: <hi>Troylus</hi> would fight for <hi>Creſſeida: Aenaeas</hi> wonne <hi>Lauinia</hi> with the dint of his weapon, and ſweat of bloud: <hi>Paelops</hi> hazarded his life for <hi>Hip<g ref="char:EOLhyphen"/>podamia,</hi> yea what better example than of late in our owne territorie? that noble vntimelie cropt ſpirit of honour, our engliſh <hi>Hector,</hi> who car'd not to vnder<g ref="char:EOLhyphen"/>goe any guſt of ſpleene, and cenſure, for his neuer-ſuf<g ref="char:EOLhyphen"/>ficiently admired <hi>Opia,</hi> a perfect <hi>Penelope</hi> to her ancient knight <hi>Vliſses,</hi> he an vnfained <hi>Vliſſes</hi> to her, for whoſe ſake neither the wiles of <hi>Circes,</hi> or inchauntments of <hi>Syrens,</hi> or brunt of warrs, could force or intice to for<g ref="char:EOLhyphen"/>getfulnes. But examples may ſeeme rather tedious than conuenient, I leaue the certainty of them to their authours, with this prouiſo, that <hi>what is manifeſt, needs no commentarie.</hi> Now then conſidering the perfecti<g ref="char:EOLhyphen"/>ons of ladies, haue been both informer and moderne ages, ſo reſonant through euery climate of the world: what dull ſpirit? what leaden apprehenſion hath he? that would be more curious, to vndertake the yoake of their ſeruice, then forward to participate their beauties. <hi>Lentulus</hi> the Roman warrior, after all his conqueſts abroad, was willingly captiu'd and conque<g ref="char:EOLhyphen"/>red at home; inſomuch as at the firſt veiw of <hi>Terentia,</hi> hee fear'd not to ſay, <hi>Non bellum, non fortuna:</hi> Fate cannot limitt, warre cannot ſubdue the efficatie of loue.</p>
+               <pb facs="tcp:177174:8"/>
+               <lg>
+                  <l>
+                     <hi>The fleeting paſhions of diſloyall minds,</hi>
+                  </l>
+                  <l>
+                     <hi>Proceeds from wrong directed ſcope of luſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Inconſtant chaunge beſeems groſse-feeding hindes,</hi>
+                  </l>
+                  <l>
+                     <hi>In whoſe deſerts is neither faith, or trust.</hi>
+                  </l>
+                  <l>
+                     <hi>When noble ſpirits in the bonds of dutie,</hi>
+                  </l>
+                  <l>
+                     <hi>Pay tribute to the excellence of beautie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>For gentle temper of a freer blood,</hi>
+                  </l>
+                  <l>
+                     <hi>Counts bondage to a ladie willing pleaſure,</hi>
+                  </l>
+                  <l>
+                     <hi>Adoring ſeruice of best worthy</hi> good:</l>
+                  <l>
+                     <hi>And deeme their toile for fauour</hi> pleaſing leaſure:</l>
+                  <l>
+                     <hi>Not reckoning commaund,</hi> ſeruilitie,</l>
+                  <l>
+                     <hi>But true</hi> performance, <hi>true</hi> nobilitie.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>To talke, conuerſe, or dailie, is not loue:</hi>
+                  </l>
+                  <l>
+                     <hi>But amorous wantonneſse of idle play,</hi>
+                  </l>
+                  <l>
+                     <hi>Brunts of defence doth firme affection proue,</hi>
+                  </l>
+                  <l>
+                     <hi>Who would not fight when beutie is the prey?</hi>
+                  </l>
+                  <l>
+                     <hi>Then who is he who would not think hee's free,</hi>
+                  </l>
+                  <l>
+                     <hi>When hee's inthral'd to loues captiuitie?</hi>
+                  </l>
+               </lg>
+               <p>Loues captiuitie is freedoms infranchiſement, and whoſoeuer is a priſoner, to the merrit of fairneſſe, is abſolutely naturalized a denizen to happines. To con<g ref="char:EOLhyphen"/>clude (for in knowen verities many proofes are need<g ref="char:EOLhyphen"/>leſſe) a true, and truely louing knights libertie, ought to be inchained, to the diſpoſure of his ladie: her will muſt be to him a law, and that law, not penall, but irre<g ref="char:EOLhyphen"/>fragable. The ſincerity of his tryed affection, muſt bee an obſtacle to wilfulnes, with due conſideration, that although he be bound to vndergoe her pleaſure, ſo he
+<pb facs="tcp:177174:8"/>ſhall vndertake no <hi>ſhame</hi> that may diſpleaſe. For from <hi>the faire proceeds nothing but what is faire.</hi> Ladies are mild, and fearefull to impoſe dangers: wiſe, and will preuent them: eſpecially ſuch daungers, as either may threaten inglorious diſhonour, or likely perill to their beloued. Timorous they are of the worſt, carefull (and in that care ambitious) for the beſt. Nature made them Females, vertuouſly kinde, women, angelically vertuous: horror befits not their ſex, or vnthankeful<g ref="char:EOLhyphen"/>neſſe their beauties: for although warre defends the right of loue, yet loue cannot brooke the ſeueritie of warre.</p>
+               <q>
+                  <l>
+                     <hi>Dalliance in chambers, harmeleſſe play and ſport,</hi>
+                  </l>
+                  <l>
+                     <hi>Doe with the ſweetes of loue, much better ſort.</hi>
+                  </l>
+               </q>
+               <p>Since then ladies are moulded of this temper, and tempered in the mould of loue, mildneſſe, and kind<g ref="char:EOLhyphen"/>neſſe: what is that Knight that would not be their cap<g ref="char:EOLhyphen"/>tiue? inſomuch as the blunteſt cynicke, muſt in rea<g ref="char:EOLhyphen"/>ſon avow, that it is moſt reaſon, that <hi>Knights in Ladies ſeruice haue no Free-will.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:177174:9"/>
+               <head>TO THE RIGHT Honourable the Earle of Arundel. Second Poſition.</head>
+               <argument>
+                  <p>Beautie is the Maintainer of Valour.</p>
+               </argument>
+               <opener>
+                  <salute>RIGHT HONOVRABLE.</salute>
+               </opener>
+               <p>IT is no preiudice to the precious claritie of know<g ref="char:EOLhyphen"/>ledge, euen in vndoubted truthes, to make truth more doubtles, for in matters of wrong, arguments doe confound ſence, when in explanation of right, they doe ſenceably approoue it. Tis good; <hi>Myſte<g ref="char:EOLhyphen"/>rie in demonſtration, is a confuſed niceneſse.</hi> So knowne is the certainty of this Poſitio<g ref="char:cmbAbbrStroke">̄</g>, <hi>Et domi, et foris,</hi> that who<g ref="char:EOLhyphen"/>ſoeuer would ſeeme ignorantly ſtrange, would but bewray his ſtrangely rude ignorance in ſeeming ſo. <hi>Beautie</hi> (ſay we) <hi>is the maintayner of Valour:</hi> Who is ſo blunt as knowes it not? who is ſo blockiſh as will not (and may with iuſtice) defend it? an inſtance euen in the entrance ſhall bee no abſurditie. In the infancie of the Romane Empire, (as <hi>Plutarch</hi> to the purpoſe re<g ref="char:EOLhyphen"/>hearſeth) the Romanes violently ſeazed vpon the <hi>Sa<g ref="char:EOLhyphen"/>bines</hi>
+                  <pb facs="tcp:177174:9"/>ladies: by violence they wonne them, by valour they iuſtified their winning; inſomuch as euer after betwixt theſe warlike Nations began both increaſe of hatred, and defiance of hoſtilitie. In which times <hi>Kiſsing</hi> had his firſt originall, deuiſed by the <hi>Sabine</hi> la<g ref="char:EOLhyphen"/>dies, as an earneſt-peny of deſart, to the guerdon of the Romanes deſperate toyle. For although in the eyes of ſome more Stoicall cenſures, <hi>Kiſsing</hi> ſeems but a need<g ref="char:EOLhyphen"/>leſſe ceremonie, yet in the feeling of loue, it is the firſt taſt of loue, the firſt certaintie of hope, the firſt hope of obtaining, the firſt obtaining of fauour, the firſt fa<g ref="char:EOLhyphen"/>uour of graunt, the firſt graunt of aſſurance, the firſt &amp; principalleſt aſſurance of affection; the firſt ſhadow of the ſubſtance of after contented happineſſe, happy pleaſure, pleaſing heauen; but to our matter. Men for the moſt part (ſome more heroycall inclinations by nature excepted) are in the frailtie of their humanitie, ſo fearefull of harmes, and ſo deſirous of the preſerua<g ref="char:EOLhyphen"/>tiue of life: as although not the diſcouragement of cowardiſe, yet proper inſtinct of mortalitie, will deter them from wilfull, and imminent running into perill. Some againe are of that frozen and cold temperature of diſpoſition, as according to the prouerbe, they e<g ref="char:EOLhyphen"/>ſteeme it prouident ſafetie, to <hi>ſleepe in a whole skinne.</hi> Of this imbecilitie are many, who haue only enioyed, the lazie ſoftneſſe of vitious eaſe; and neuer felt, at leaſt neuer conceited the touch of any miſerie, no not of gentilitie. The ſelfe alone meanes therefore, that were to bee ordayned, for a prouocation, and incite<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t to liuelyhood of manhood was, the quinteſſence, raritie, yea rare quinteſſence of diuine aſtoniſhment, <hi>Beautie:</hi> vpon whoſe al-perfection, the greedy eye of
+<pb facs="tcp:177174:10"/>deſire (euen in ſpirits of clay and mud) being ſixt, hath ſtir'd vp ſuch a rauiſhment of poſſeſsion, as they now eſteeme all dangers weake; nay, all impoſsibilities faci<g ref="char:EOLhyphen"/>lities, to poſſeſſe it. That Cardinall-vertue of inuincible <hi>fortitude,</hi> had long ſince ben leuel'd with <hi>cowardiſe,</hi> had not beauty the <hi>alarum</hi> to <hi>magnanimitie,</hi> rent the diſtruſt of weaknes and ſtrengthened it with contempt of pre<g ref="char:EOLhyphen"/>cedencie; aemulation of deſert. Say then, how pro<g ref="char:EOLhyphen"/>bable is it? how indubitate hereditary is the depen<g ref="char:EOLhyphen"/>dance of Valor, to the merit of <hi>beauty? Beautie!</hi> which prickes on the ſloweſt, encourageth the faint-harted, ſharpens the dull, commaundeth the ſtowteſt, recrea<g ref="char:EOLhyphen"/>teth the wearie, and guerdoneth the deſeruing. <hi>Beau<g ref="char:EOLhyphen"/>tie!</hi> the largeſſe of the Gods; the comfort of men; the bounty of heauen; the prize of earth; the paradiſe of glory; the <hi>Vialactea</hi> to felicitie; the wonder of it ſelfe, <hi>beautie.</hi> This is that <hi>Achilles</hi> impenetrable ſhield, which euerie <hi>Vliſſes</hi> pleads for, euery <hi>Aiax</hi> fights for; this is that golden fleece, which the <hi>Argonautes</hi> ſued to find, which <hi>Iaſon</hi> toyling enioied. This is that famouſed <hi>Trophey,</hi> which <hi>Philip</hi> would haue his ſonne <hi>Alexander</hi> in the games of <hi>Olympus</hi> to wraſtle for. How much are they deceiued (I mean theſe fainter bloods) who vain<g ref="char:EOLhyphen"/>ly imagine, that ſouldiers fight for ſpoile only; Generals hazard their perſons for greedines; Sea-men traffique for auarice: Knights wander for prey, or that any ieo<g ref="char:EOLhyphen"/>pards his life, chiefely for lucre. Does not the marchant venture ſhip-wrack to returne with a preſent, that may purchaſe his Ladies liking? and in her liking his owne bliſſe? does not the ſouldier fight abroad to preſerue his ladie in ſafety at home? does not the generall com<g ref="char:EOLhyphen"/>maund, that hee may returne with victorie gracious
+<pb facs="tcp:177174:10"/>in his Ladies eyes? does not the Knight errant attempt threatnings of horrour? aduentures of dread? thun<g ref="char:EOLhyphen"/>der of death it ſelfe? onely to rumour his fame in the cares of his ladie? does he not range for the ſuccour of beautie? for the freedome of beautie? for the ioy of beautie? and all ſpoyle that the ſouldier bleedes for, all the greedineſſe that commaunders ſweat for, all the auarice that the Marchant trades for, all the prey that the Knight aduentures for, all the benefite that euerie one and all of theſe hope, wiſh, pray, contend for, is the fruition of <hi>Beautie:</hi> than which nothing can be more gratefull, nothing is ſo acceptable.</p>
+               <sp>
+                  <speaker>Valour.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Through ſtreames of blood and maſſacres of death,</hi>
+                     </l>
+                     <l>
+                        <hi>I ſpend the troubles of a glorious breath.</hi>
+                     </l>
+                     <l>
+                        <hi>In feates of armes and lifes dread deſperation,</hi>
+                     </l>
+                     <l>
+                        <hi>I touze to gaine me</hi> Fame <hi>and</hi> Reputation.</l>
+                     <l>
+                        <hi>All that I ſtriue for, is to comprehend</hi>
+                     </l>
+                     <l>Honour; <hi>to</hi> honour <hi>all my labours tend.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Honour.</speaker>
+                  <lg>
+                     <l>Valour <hi>doth aime at me, I aime at</hi> Beautie,</l>
+                     <l>
+                        <hi>And make my greatnes greater by my dutie.</hi>
+                     </l>
+                     <l>Valour <hi>doth fight for me, when all my prize</hi>
+                     </l>
+                     <l>
+                        <hi>Conſiſt's in fauour of ſweet</hi> Beauties <hi>eies.</hi>
+                     </l>
+                     <l>Honour <hi>ſuſtaineth</hi> Valour: <hi>when againe</hi>
+                     </l>
+                     <l>Beautie <hi>feedes</hi> Honour: <hi>and in that them twaine.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Beautie.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Mean-bred deſerts who couet much ambition,</hi>
+                     </l>
+                     <l>
+                        <hi>Hauing attain'd it, euer grow ambitious:</hi>
+                     </l>
+                     <l>
+                        <hi>Soring to gaine my loue, in whoſe tuition</hi>
+                     </l>
+                     <l>
+                        <hi>Their greatnes is aduaunſt, and made propitious:</hi>
+                     </l>
+                     <l>
+                        <hi>I ſtrengthen cowards, and exalt the ſpirits</hi>
+                     </l>
+                     <pb facs="tcp:177174:11"/>
+                     <l>
+                        <hi>Of weakneſſe, I maintaine proud chiualrie:</hi>
+                     </l>
+                     <l>
+                        <hi>In me the drifts of</hi> Honour <hi>pledge their merits:</hi>
+                     </l>
+                     <l>
+                        <hi>To guerdon and diſcerne</hi> worthes <hi>dignitie:</hi>
+                     </l>
+                     <l>
+                        <hi>And but for me they brunts of hazard loath:</hi>
+                     </l>
+                     <l>Honour <hi>payes</hi> Valour: Beutie <hi>rules them both.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>The whole ſcope that <hi>Valour,</hi> and men of valiant courage ayme their drifts at, is for the moſt part a <hi>fa<g ref="char:EOLhyphen"/>mous name,</hi> and reputed <hi>Honour:</hi> but the marke which honour directs his leuell to, is to participate the de<g ref="char:EOLhyphen"/>lightfull ſweets of ſweeteſt <hi>Beautie,</hi> which in al ſuccee<g ref="char:EOLhyphen"/>ding poſterities, hath been of ſo powerfull and power<g ref="char:EOLhyphen"/>fully reſpected awe, that for the hopes, which men haue euermore conceiued of enioying it, they haue with accountrements of defence been preſt, for feare of loſing, to preſerue it. <hi>Beautie!</hi> why it is the life of <hi>magnanimitie,</hi> it is the perfect ſparke, whoſe luſtre re<g ref="char:EOLhyphen"/>flecteth boldneſſe to the timorous. <hi>Beautie!</hi> what is it? what can it elſe be? but the modell of all <hi>fortitude,</hi> for this proofe (vnleſſe I be miſtaken as I am not) did the antiquaries of the elder world, ſuch as were <hi>Martia<g ref="char:EOLhyphen"/>liſts,</hi> attribute all worſhip vnto <hi>Pallas,</hi> all adoration to <hi>Bellona,</hi> reuerencing her as the Goddeſſe of armes, yet ſhee a woman. Fayre ſhe was, els in vaine would ſhee ſtriue with <hi>Venus</hi> for the golden ball: valiant ſhe was, els with fooliſh ſuperſtition, did the ancient beſt <hi>War<g ref="char:EOLhyphen"/>riors</hi> adore her, and the younger <hi>Sophyes</hi> allow her, yes, yes, ſhe was wiſe, beautifull, and valiant, inclu<g ref="char:EOLhyphen"/>ding this morrall, that as ſhee had courage, ſo was ſhee a woman, whoſe force was not more fierce to terrifie, but her <hi>Beutie</hi> was as piercing to wound. Did they ap<g ref="char:EOLhyphen"/>plaud her martiall diſpoſition? true, but they did re<g ref="char:EOLhyphen"/>uerence
+<pb facs="tcp:177174:11"/>her amiable looks, moſt certain it is, the vali<g ref="char:EOLhyphen"/>ant may and do contend with the valiant, but <hi>Beautie</hi> hath the maiſtery of both.</p>
+               <q xml:lang="lat">Audentes forma cogit audaces.</q>
+               <p>Loue breaths more reſolution into the forwardnes of the reſolued; for neuer haue we read, neuer heard of any vndaunted Champion, who being free in his owne affections, did ſtriue ſo much by perillous ex<g ref="char:EOLhyphen"/>ployts, to adorne the rumour of fame; but if he af<g ref="char:EOLhyphen"/>ter were bleſt, by being an entertained ſeruant to ſome worthy ladie, thoſe daungers which before ſee<g ref="char:EOLhyphen"/>med dangers, he would now deeme eaſie, and all eaſy atchiuements, toyes, onely that ſhould then bee moſt honorable, which threatned moſt terror. <hi>Hercules</hi> valued the ſwimming ouer the Sea, to breed wo<g ref="char:cmbAbbrStroke">̄</g>der in <hi>Deianeira,</hi> not for that he deſired to doe it, but becauſe ſhe ſhould admire, and commend the deed. Why do ſpruce courtiers, practize courtlike actiuitie? but to breed delight to their Ladyes. why doe men in ge<g ref="char:EOLhyphen"/>nerall contend to exceed in brauerie? but to be noted the braueſt of their ladies. Why doe cormorants hoord treaſure? but to attract ſome ladies liking Why do poore men toyle? great men trauerſe? but all to one end, to ſhare <hi>Beautie.</hi> why doe Kings and greateſt Princes, thirſt to enlarge their empires and domini<g ref="char:EOLhyphen"/>ons? but to be noted for more eminent, and more to be loued for that eminence of their ladies. Let vs looke into all the devoyres of mankind, and they all tend to the content of <hi>Beautie:</hi> Men to honour men, is rather a bootleſſe feare, then in regardfull loue; but for men to bee honoured of ladies, is the ſcope of all felicitie. Men in kindneſſe are mutually lambs, but
+<pb facs="tcp:177174:12"/>in corriuall-ſhipp of loue, Lyons. Should I fight for my friend, I might be appeazed in my choller, but for my lady, I am inexorable.</p>
+               <q xml:lang="lat">Chalibs mihi circa pectus.</q>
+               <p>The teares of widows, the cries of babes, the con<g ref="char:EOLhyphen"/>dolement of Parents, the intreaties of Children, the wounds of the maimed, the wracke of the oppreſſed, cannot moue pity in a ſteeled hart, which fights for re<g ref="char:EOLhyphen"/>port in the honor of his lady. It is ſaid of the <hi>Turks</hi> they traine their youth in diſcipline of warre, with intent of cruelty, beleeue it I ca<g ref="char:cmbAbbrStroke">̄</g>not be perſwaded, that being ſo abſolute warriors, they ſhuld ſo wholy be murtherous tyrants, except to returne with triumph in the ſight of their ladies. <hi>Tamburlaine,</hi> the ſcourge of God, and ſa<g ref="char:EOLhyphen"/>uadgeſt monſter of his time; neuer made a ſlaughter vpon any of his conquered captiues, but the principal<g ref="char:EOLhyphen"/>leſt he euer ſent as ſlaues to his queene <hi>Zenocrate,</hi> in<g ref="char:EOLhyphen"/>tending that as ſhe was the deity, who infus'd ſtrength into his armes: ſo ſhee ſhould be the whole glory of his tryumph.</p>
+               <q xml:lang="lat">
+                  <l>
+                     <hi>Pax ruat in bellum, ſocium<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in praelia faedus:</hi>
+                  </l>
+                  <l>
+                     <hi>Cauſa ſubit; nulla fronte regendus</hi> Amor.</l>
+               </q>
+               <p>How requiſite it is then for a kingdom, which would be fortifyed with choyce of magnanimous ſpirits, to be alſo inriched with the ornament of <hi>Beauty:</hi> the expe<g ref="char:EOLhyphen"/>diency in occaſions of neceſſity makes euident. I haue often maruailed why the Romanes (famous for their loues) going to battaile againſt a world of ſo many na<g ref="char:EOLhyphen"/>tions, as they did, for more ſuerty of victory, had not carried their ladies with the<g ref="char:cmbAbbrStroke">̄</g>: that by the ſight of them their enfeebled ſtre<g ref="char:cmbAbbrStroke">̄</g>gth, might (like the head of <hi>Hydra</hi>) doubly haue renued. Doubtles had <hi>Iulius Caeſar,</hi> at his
+<pb facs="tcp:177174:12"/>firſt arriuall for the conqueſt of <hi>Britane,</hi> brought with him <hi>Cleopatra,</hi> he would neuer haue twiſe ſuffered ſo ſhamefull a repulſe. What infinite examples might here be alledged, for the probatio<g ref="char:cmbAbbrStroke">̄</g>, that <hi>Beauty</hi> hath euermore inſtigated audacity to the dulleſt? finally in the apprehe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſion of co<g ref="char:cmbAbbrStroke">̄</g>mon reaſon, let euery man examine himſelfe, whether it be not the immediat noriſher of al <hi>fortitude?</hi> It is, it hath been, and euer wilbe the nurſe, and foode of heroicall chiualry, for valor not ſeaſoned with the hopes of loue, is an irreſolute valour. A ſouldier, and libertine, is an vn armed ſouldier? <hi>Beauty</hi> is the ſpur to <hi>Honor; Ho<g ref="char:EOLhyphen"/>nor</hi> the ſeruiceable attendant on <hi>Beauty,</hi> yet will ſome home-bred poring Academicke ſay, it is the only means to make a warrior a flat coward: for <hi>Beauty</hi> allures to de<g ref="char:EOLhyphen"/>lights, delights to eaſe, eaſe conſequently the foſterer to diſcouraged puſillanimity: but let ſuch an vnexperie<g ref="char:cmbAbbrStroke">̄</g>ced plodder knowe, it is as difficult for him to cenſure of courage, as it is eaſy for the couragious to ſcorne his ce<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſure, or indeed rather pittie his ridiculous folly in ce<g ref="char:cmbAbbrStroke">̄</g>ſu<g ref="char:EOLhyphen"/>ring, as <hi>Hanniball</hi> did <hi>Phormio,</hi> when he would read him a lecture of war, who had euer bin trained in the wars: as if a mild louer may not dally at home in a cabinet, yet the ſelfe ſame be a ſeuere ſouldier in the field. Let ther<g ref="char:EOLhyphen"/>fore euery man of reaſon, be reaſonable in vnderſta<g ref="char:cmbAbbrStroke">̄</g>ding, and where he ca<g ref="char:cmbAbbrStroke">̄</g>not contradict, confeſſe that <hi>the truth is greateſt &amp; chiefly preuaileth,</hi> principally when armes will iuſtifie, what arguments confirme, and arguments againe reciprocally corroborate what armes (on the behalfe of iuſtice) doth maintaine, and rightly maintaine, that merely of it ſelfe, <hi>Beauty is the maintainer of Valour.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:177174:13"/>
+               <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>rable the Earle of <hi>Pembroke.</hi> Third Poſition.</head>
+               <argument>
+                  <p>Faire Ladie was neuer falſe.</p>
+               </argument>
+               <opener>
+                  <salute>RIGHT HONORABLE.</salute>
+               </opener>
+               <p>
+                  <hi>THe temperature of the mind follows the temperature of the bodie.</hi> Which certaine axiome (ſayes that ſage Prince of Philoſophers <hi>Ariſtotle</hi>) is euer more in<g ref="char:EOLhyphen"/>fallible. Then doe not I a little maruell, what arrogant ſpleen of malediction with teeth of iuyceles enuie; durſt to detract fro<g ref="char:cmbAbbrStroke">̄</g> the worthines of <hi>Beauty?</hi> terming it a par<g ref="char:EOLhyphen"/>ticular bleſsing, beſtowed for a more general curſe. Ter<g ref="char:EOLhyphen"/>ming it fickle, deceitfull, inco<g ref="char:cmbAbbrStroke">̄</g>ſtant, when if the ſawes of authority be authe<g ref="char:cmbAbbrStroke">̄</g>ticall, nothing can be more precious, nothing in it ſelfe ſo vertuous. <hi>Faire Ladie was neuer falſe?</hi> Oh ſayes ſome curious impoſtor, <hi>Euge hominem?</hi> a good<g ref="char:EOLhyphen"/>ly theame? much witt no doubt expected? few proofes produced? who will not ſweare the contrary? who will not beleeue the contrarie as his Creed? vaine fondlings, as many as ſo beleeue, doubtleſſe ſhall be ſo deceiued; and doe penance for their errour in the gall of their diſ<g ref="char:EOLhyphen"/>truſt. For if <hi>the temperature of the mind, follow the tempe<g ref="char:EOLhyphen"/>rature of the bodie?</hi> (text it is) then without controuer<g ref="char:EOLhyphen"/>ſie, as the outward ſhape is more ſingular, ſo the inward vertues muſt be moſt exquiſite. Nature is but the hand<g ref="char:EOLhyphen"/>mayd to heauen. <hi>Beautie</hi> is the rareſt workemanſhip of Natures power. So queſtionleſſe where the hand maid of heauen hath imparted her art, the bleſsings of the Gods are plentifully abounding. Neither will they make
+<pb facs="tcp:177174:13"/>that lame, which nature hath framed perfect. For why? can falſhood lye hidden vnder the raritie of fairneſſe? no more than vice can lurke vnder the plumes of ver<g ref="char:EOLhyphen"/>tue; which is meerely impoſsible. Beautie is but a faire Inne to lodge more fairer gueſts within. It is but the liue<g ref="char:EOLhyphen"/>ly colour of an excellent taſting wine. It is the greateſt <hi>good</hi> in it ſelfe, that heart of humanitie can wiſh for. If <hi>deformitie</hi> be the dreg's and ſcum of earths diſgrace? if it be (as it is) the curſe of the Parents tranſgreſsion, layd vpon the child? then contrarily, muſt <hi>beautie</hi> be the im<g ref="char:EOLhyphen"/>mediate teſtimonie of heauens fauor? why were people in times paſt, called Giants &amp; Monſters? but for the vgly appearance of their ſhapes. Neither were they in body ſo miſhapen, as in conditions odious. So then euen in them it is manifeſtly verified, that fouleſt enormities har<g ref="char:EOLhyphen"/>bour in fowleſt formes, then it followes, that <hi>firmeſt ver<g ref="char:EOLhyphen"/>tues, are ſhrowded in the faireſt complexions.</hi> Some indeed oppoſe an argument, that <hi>Beauty</hi> of it ſelfe is a great <hi>good:</hi> but the abuſe moſt wretched &amp; common. Yea, ſo com<g ref="char:EOLhyphen"/>mon, that the very face of <hi>beautie</hi> is a preſumption: yea more, a warrant of <hi>inconſtancie;</hi> to ſuch is eaſily replyed. Such abuſe proceeds not from <hi>perfect beautie,</hi> but from the adulterate counterfeit of <hi>beautie, art.</hi> Of this na<g ref="char:EOLhyphen"/>ture are thoſe that being intemperately wanton, ſtriue with artificiall cunning, to couer the defects of <hi>nature.</hi> For <hi>true beautie,</hi> as it is of it ſelfe a <hi>good,</hi> ſo is it in it ſelfe ſimple, innocent, and harmeleſſe. Into which no thought of vnkindneſſe, can penetrate: and being once ſubiect to loue, can neuer, will neuer be tempted to looſneſſe. O ſtrange ſayes one! oh hereſie cries another; palpably falſe! falſely abſurd; do not Poets the pillars of your folly affirme, that <hi>Venus</hi> forſooth your only Deity of your paſ<g ref="char:EOLhyphen"/>ſions, the queen of your thoughtts, the boaſt &amp; goddeſſe
+<pb facs="tcp:177174:14"/>of your loues, was abſolutely falſe to her husband? elſe had <hi>Cupid</hi> been vnborne; <hi>Aenoeas</hi> vnbegotten. And yet <hi>lady was neuer faire &amp; falſe!</hi> was not <hi>Helen</hi> of <hi>Greece</hi> made a Troian ſtale; a ſcorne to poſterities, whoſe verie name is ominous to cuckolds. Do not all chronicles of antiqui<g ref="char:EOLhyphen"/>ty ſhew? not only that the <hi>faire,</hi> but the <hi>faireſt</hi> haue proo<g ref="char:EOLhyphen"/>ued <hi>lighteſt?</hi> and yet <hi>faire ladie was neuer falſe.</hi> True, the Poets ſay ſo, who being the<g ref="char:cmbAbbrStroke">̄</g>ſelues laſciuiouſly addicted, thought it great inhumanity, at leaſt iniurie, that <hi>Beautie</hi> ſhould be ingroſt to the proper vſe of one alone man. Be<g ref="char:EOLhyphen"/>ſides if Poets are to be credited, <hi>Venus</hi> was a Goddeſſe, not framed by <hi>nature,</hi> but yſſuing from the Gods, &amp; ther<g ref="char:EOLhyphen"/>fore aboue humane apprehenſion. Poets ſpeak truth to warrant their writs, and ſo was <hi>Venus faire,</hi> they deuiſe fi<g ref="char:EOLhyphen"/>ctions to approoue their wits; ſo was ſhe <hi>immodeſt:</hi> with this Caueat, that ſhe was <hi>Venus,</hi> was a troth; that ſhe was trothles, a fiction. Alſo <hi>Helen</hi> was counted <hi>faire,</hi> becauſe many affected her, procur'd by her enticing wantones, inuiting allurements. Curteous I thinke ſhe was, &amp; ther<g ref="char:EOLhyphen"/>fore beloued, <hi>faire</hi> neuer, for then not <hi>fickle.</hi> Indeed I ac<g ref="char:EOLhyphen"/>knowledge, old writers being themſelues paſt the youth of loue, &amp; ſunke into dotage, haue inueighed againſt the dignity of that ſex, not vpon knowledg, but mere ſuppo<g ref="char:EOLhyphen"/>ſition, deming that becauſe the worſt are haunted of the worſt for their lewdnes, condemne the <hi>faireſt</hi> for being <hi>faire,</hi> as the principall inchantment. Now ſo much diffe<g ref="char:EOLhyphen"/>re<g ref="char:cmbAbbrStroke">̄</g>ce is there, betwixt the wanto<g ref="char:cmbAbbrStroke">̄</g> &amp; the <hi>faire,</hi> as the <hi>wanto<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi> may be beloued, but the <hi>faire,</hi> wil not be <hi>wanton.</hi> It is to be ſuppoſed, that ſuch as inclined to the looſe fickleneſſe of change, are not of that excellent temper, oftrue bew<g ref="char:EOLhyphen"/>ty, becauſe then they knowing their own merit, (as wo<g ref="char:EOLhyphen"/>men of that nature do) wold be by how much the more noted, by ſo much the more tender of the preſeuatio<g ref="char:cmbAbbrStroke">̄</g> of
+<pb facs="tcp:177174:14"/>their honors report. And ſomewhat precizely (pardon troth) prize their own value: <hi>Scire tuu<g ref="char:cmbAbbrStroke">̄</g> nihileſt niſi te ſcire hoc ſciat alter.</hi> To be <hi>faire,</hi> &amp; not admired is as a hidde<g ref="char:cmbAbbrStroke">̄</g> mi<g ref="char:EOLhyphen"/>nerall: yet to be admired, &amp; not preſerue that admiratio<g ref="char:cmbAbbrStroke">̄</g>, is an vnvalued indignity. But as ladies are <hi>fair,</hi> ſo are they <hi>wiſe,</hi> &amp; as they are both <hi>faire</hi> and <hi>wiſe; conſtant.</hi> Alas, moſt know, &amp; many fele, that <hi>bewty</hi> is not eaſily woed to loue; many bitter conflicts, of oppreſſed griefs, are to be indu<g ref="char:EOLhyphen"/>red, ere they are won to liſte<g ref="char:cmbAbbrStroke">̄</g> to affection. And at length being perſuaded, they were not ſo obdurat before to be ſued to, as they are now moſt <hi>conſtant</hi> in their loues moſt ſincerely firme to their choice. Experience teacheth it, that ſtele is not ſoon hot, yet being once fired, is leſſe ea<g ref="char:EOLhyphen"/>ſily cooled An exa<g ref="char:cmbAbbrStroke">̄</g>ple or two, ſhal warrant the credit of the reſt: who could bee more induſtrious to his ladie, tha<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>Theſeus</hi> was in gaining <hi>Ariadne?</hi> who being conque<g ref="char:EOLhyphen"/>red, was euer moſt faſt to him: though iniuriouſly; yea, perfidiouſly forſaken of him. <hi>Portia</hi> ſo inderely reueren<g ref="char:EOLhyphen"/>ced <hi>Cato,</hi> as ſhe would for his preſeruatio<g ref="char:cmbAbbrStroke">̄</g> ſwallow coles. <hi>Alceſt</hi> wold die for <hi>Admetus.</hi> And <hi>Penelope</hi> (the mirror of the <hi>Greeke</hi> matrons, both for <hi>conſtancy</hi> &amp; <hi>Bewty</hi> wold ne<g ref="char:EOLhyphen"/>uer falſify her faith to <hi>Vliſses.</hi> I my ſelf ſhuld account ſuch proofs inconuenient, did not the proofe of my defence, rely vpon former inſtances compared both with preſent &amp; latter times. <hi>Diana</hi> renowned for <hi>beauty,</hi> was more re<g ref="char:EOLhyphen"/>nowned for <hi>chastity,</hi> inſomuch as ſingularly, &amp; truly <hi>fai<g ref="char:EOLhyphen"/>reſt</hi> ladies co<g ref="char:cmbAbbrStroke">̄</g>tended to be her nymphs, if truſt to writers may be attributed: <hi>rara praeclara:</hi> according to the pro<g ref="char:EOLhyphen"/>uerbe, that the <hi>faireſt</hi> are the <hi>faireſt,</hi> that is the beſt &amp; beſt to be eſtemed. what is more to be vrged for the ratifying our maintenance: but the <hi>exterior beauty, is aſſurance of the interior quality.</hi> To anſwere to euery vain obiection, that ſome more nice wits only ſeeming witty in cenſure and
+<pb facs="tcp:177174:15"/>miſconſtruction, is not here inte<g ref="char:cmbAbbrStroke">̄</g>ded, as <hi>fronti nulla fides:</hi> the <hi>ficklenes</hi> of <hi>Creſseida:</hi> the <hi>mutability</hi> of ſome <hi>Lais:</hi> let it ſuffice, they are fictions &amp; nugatory inuectiues, of deſer<g ref="char:EOLhyphen"/>uingly abuſed poets: or repulſed <hi>Annalogers,</hi> ridiculous in the vnderſtanding of the wiſe: conte<g ref="char:cmbAbbrStroke">̄</g>ptible, in the per<g ref="char:EOLhyphen"/>ſeuerance of vnderſtanding. It is euen as imposſible for <hi>ladies</hi> of <hi>quainteſt formes,</hi> to incline to thoughts of troth<g ref="char:EOLhyphen"/>les <hi>impude<g ref="char:cmbAbbrStroke">̄</g>cy,</hi> as for monſters of <hi>deformity,</hi> to produce ef<g ref="char:EOLhyphen"/>fects of <hi>vertue.</hi> Needs there any other demo<g ref="char:cmbAbbrStroke">̄</g>ſtration, the<g ref="char:cmbAbbrStroke">̄</g> the admirable (almoſt incredible) ornament of chaſtity? <hi>Lucrece</hi> the Roma dame, the paragon of thoſe times, the mirror of thoſe daies, for rauiſhing perfectio<g ref="char:cmbAbbrStroke">̄</g> of <hi>beauty:</hi> harmeles, vnſpotted <hi>Lucrece?</hi> who did withſtand luſt to the eternizing her honor, &amp; monumented her rape with extremity of death. who is he to obſtinate in his errour? ſo wilful in his madnes? ſo mad in his erronius wilfulnes? as would not euen in the glas of <hi>Lucreſias</hi> perſeuera<g ref="char:cmbAbbrStroke">̄</g>ce (e<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g> to the vttermoſt extinct of life) ſe the wo<g ref="char:cmbAbbrStroke">̄</g>der of <hi>bewty,</hi> matched with the indiuiduat adiu<g ref="char:cmbAbbrStroke">̄</g>ct vnſoyled <hi>conſtancy.</hi>
+               </p>
+               <q xml:lang="lat">Conſtantia eſt gemella venustatis indiuidua.</q>
+               <p>Three particularities there are, that ſtand firme for this poſition: <hi>examples,</hi> already alledged: <hi>approbation of iudgment</hi> newly rehearſed: and <hi>ground of troth</hi> now to be verefi'de. verefi'de ſaid I? the ſelf aſſurance of the ſubiect, is a teſtimony moſt probable, if <hi>vice</hi> be the nouriſher of <hi>vice, vertue</hi> muſt be the effect of <hi>vertue.</hi> that is ſincerely a <hi>vertue,</hi> which is a <hi>good,</hi> &amp; that <hi>good</hi> is <hi>Beauty,</hi> ſo herein <hi>fic<g ref="char:EOLhyphen"/>tions</hi> comprehe<g ref="char:cmbAbbrStroke">̄</g>d <hi>truth,</hi> as <hi>forma bonum:</hi> yet ere I wade further, &amp; be grauel'd in the ouze, and quick ſand of my own intention, I am for the clearing of ſuch, as may miſ<g ref="char:EOLhyphen"/>conceite my drift, to make an Apology for my defence: neither by my iuſt iuſtification, of an apparant verity, the <hi>wanton</hi> ſhall taxe my indeuours as ridiculous, knowing
+<pb facs="tcp:177174:15"/>their own imperfections, nor challenge this, as a due be<g ref="char:EOLhyphen"/>longing to the encouragme<g ref="char:cmbAbbrStroke">̄</g>t of their lenity. I confeſſe (&amp; bluſh that occaſion ſhould be miniſtred of confeſſion) that many there are, whoſe bewitching lookes, drawe youth into folly, and age into dotage, rather madnes: too many there are, whoſe ſmooth <hi>counterfeit,</hi> in the indiſ<g ref="char:EOLhyphen"/>eretion of virility, may paſſe for <hi>Beauty:</hi> when the coun<g ref="char:EOLhyphen"/>terfeiters, are ſo mutable, as they are neither euer their own, or euer certaine any on's. yea, euen in <hi>great</hi> perſon<g ref="char:EOLhyphen"/>ages, this looſneſſe is an imboldning, to the <hi>meaner:</hi> rather a preſide<g ref="char:cmbAbbrStroke">̄</g>t to the <hi>worſt</hi> of offending: the greatnes of their eſtates (I ſpeake of ſome that haue beene) bolſtereth out the co<g ref="char:cmbAbbrStroke">̄</g>munity, of licentious immodeſty, whoſe ſhames were they enameled in the tableture of their foreheads, it would be a hideous viſour, to more deformed co<g ref="char:cmbAbbrStroke">̄</g>plec<g ref="char:EOLhyphen"/>tions, more enormious conditions. Such there are, who vnder the abhomination of luxury, (nicely termed kind<g ref="char:EOLhyphen"/>nes) import the pretexted gloſſe of <hi>beauties</hi> name, to ſuch are alſo mercenarye ſlaues, intimated ſeruants, againſt whom, although my purpoſe is not to inueigh, yet doe I here exclude the<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> out the aſſotiation of the <hi>faire:</hi> let thoſe be <hi>falſe, beautifull</hi> they are not. In the<g ref="char:cmbAbbrStroke">̄</g> the <hi>te<g ref="char:cmbAbbrStroke">̄</g>perature of the body, follows the te<g ref="char:cmbAbbrStroke">̄</g>perature of the mind:</hi> not the <hi>tempe<g ref="char:EOLhyphen"/>rature of the mind, the temperature of the body:</hi> Of whom the philoſopher inſiſteth. As I ſaid before, ſo I here avow that the error of their enchanting amyablenes bewitch<g ref="char:EOLhyphen"/>eth their adherents, who being enſnared in the nets of their <hi>laſciuiouſnes,</hi> eſteeme that prime <hi>beauty</hi> which they the<g ref="char:cmbAbbrStroke">̄</g>ſelues deliciouſly enioy. For as the <hi>looſe</hi> haue no ſub<g ref="char:EOLhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>ce, but fading <hi>art</hi> to attract, ſo the excelle<g ref="char:cmbAbbrStroke">̄</g>tly <hi>faire,</hi> haue no <hi>falſhood</hi> to be ſoyled; no cunning to beguile; no viſor to delude. They are doues without gals; ſwans without ſpots, fawnes without ſpleene: they are <hi>ſimple,</hi> &amp; will not
+<pb facs="tcp:177174:16"/>be trained; <hi>faire</hi> &amp; cannot be tempted: they are the pure colour of <hi>white,</hi> without ſtaine, whoſe delicate eares, by prophaned tongues may bee enforced to heare ill, but whoſe vnmoued breaſts, by the fond cannot be en<g ref="char:EOLhyphen"/>flamed to conſent to il. Herein are the <hi>bewtiful</hi> ſaid to be Angels on earth, for that as they exceed others in won<g ref="char:EOLhyphen"/>der of <hi>beauty;</hi> ſo they excell all other in graces of <hi>ver<g ref="char:EOLhyphen"/>tue:</hi> it ſhall not be amiſſe, to anſwere to the maleuolent will of ſome witty maleuolent detractors.</p>
+               <lg>
+                  <head>Aduerſe.</head>
+                  <l>Women. <hi>ô they are fickle falling ſtarres:</hi>
+                  </l>
+                  <l>
+                     <hi>Tydes in their ebbes, Moones euer in the wayne,</hi>
+                  </l>
+                  <l>
+                     <hi>Froſt in the thawe, ſaint hearted in the wars</hi>
+                  </l>
+                  <l>
+                     <hi>Of conſtancy, yet constant in diſdaine.</hi>
+                  </l>
+                  <l>Women! <hi>ô they are creatures moſt vnholly:</hi>
+                  </l>
+                  <l>
+                     <hi>Borne for a ſcourge to men, and curbe to folly.</hi>
+                  </l>
+                  <l>Mulieri ne credas, ne mortuae quidem.</l>
+               </lg>
+               <lg>
+                  <head>Proofe.</head>
+                  <l>Women! <hi>why they are fixed lamps of heauen,</hi>
+                  </l>
+                  <l>
+                     <hi>Shining bright lustre to the hearts of men.</hi>
+                  </l>
+                  <l>
+                     <hi>Firme diamonds, and faire, bright lookes, hearts euen:</hi>
+                  </l>
+                  <l>
+                     <hi>Constant in ſcorne of motions,</hi> where <hi>and</hi> when</l>
+                  <l>
+                     <hi>Princes for ladies praiſe haue fell at odds,</hi>
+                  </l>
+                  <l>
+                     <hi>They are of men ador'd, belou'd of Gods:</hi>
+                  </l>
+                  <l>
+                     <hi>The higheſt bleſſing, that to earth's vncommon,</hi>
+                  </l>
+                  <l>
+                     <hi>Is mans perfection, ſoule of life, a</hi> woman.</l>
+                  <l>
+                     <hi>Dijs compares foeminae.</hi>
+                  </l>
+               </lg>
+               <p>Euery <hi>faire</hi> lady is <hi>louely,</hi> but euery <hi>louely</hi> ladye is not <hi>faire:</hi> ſo then the <hi>louely</hi> may be <hi>fickle,</hi> but the <hi>faire</hi> cannot be <hi>inconſtant:</hi> what ſhould I more ſay; and yet what haue I ſaide that is inough? what, that can bee too much? and yet is not to much? ſince the only experie<g ref="char:cmbAbbrStroke">̄</g>ce of the ſub<g ref="char:EOLhyphen"/>iect, co<g ref="char:cmbAbbrStroke">̄</g>mendeth his own worthines. To ſuch the<g ref="char:cmbAbbrStroke">̄</g> as cre<g ref="char:EOLhyphen"/>dit it, I wiſh the<g ref="char:cmbAbbrStroke">̄</g> a faire lady: to misbeleuers &amp; infidels in <hi>loue</hi> this curſe: may their ladies be foule, and ſo be loath<g ref="char:EOLhyphen"/>ſome, yet <hi>falſe,</hi> and repay them with the common creſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb facs="tcp:177174:16"/>
+               <head>TO THE RIGHT Honourable the Earle of <hi>Mountgomery.</hi> The fourth and laſt Poſition.</head>
+               <argument>
+                  <p>Perfect louers are onely wiſe.</p>
+               </argument>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>
+                  <hi>PErſpicax eſt amatorum vigilans ocellus, praeuidet aduerſa, ſtudet horis conuenientibus.</hi> A perfect louer is neuer leſſe idle, then when he is idle: neuer more buſied, then when leaſt ſeriouſly imployed.</p>
+               <lg>
+                  <l>
+                     <hi>Wiſe ſeeming</hi> Cenſors <hi>count that labour vaine,</hi>
+                  </l>
+                  <l>
+                     <hi>Which is deuoted to the hopes of loue,</hi>
+                  </l>
+                  <l>
+                     <hi>When they themſelues, themſelues much vainer proue,</hi>
+                  </l>
+                  <l>
+                     <hi>By holding Louers labours in diſdaine:</hi>
+                  </l>
+                  <l>
+                     <hi>They haue forgot the wiles which made them tremble,</hi>
+                  </l>
+                  <l>
+                     <hi>In heat of youth, when youth their bloods did moue,</hi>
+                  </l>
+                  <l>
+                     <hi>What wit they vſe'd, what teares they did diſſemble.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Their now waxt ſhallow apprehenſions, then</hi>
+                  </l>
+                  <l>
+                     <hi>Were quick to ſee the worſt, wiſe to preuent it:</hi>
+                  </l>
+                  <l>
+                     <hi>How they pleaſ'd fancie, how they might content it,</hi>
+                  </l>
+                  <l>
+                     <hi>How much their hearts differ'd from hearts of men:</hi>
+                  </l>
+                  <l>
+                     <hi>How prouident they were to fawne, to flatter,</hi>
+                  </l>
+                  <l>
+                     <hi>To ſweare, vow, vrge their griefe and to lament it:</hi>
+                  </l>
+                  <l>
+                     <hi>Alas who would not doo't in ſuch a matter.</hi>
+                  </l>
+               </lg>
+               <pb facs="tcp:177174:17"/>
+               <lg>
+                  <l>
+                     <hi>Loue makes men wiſe, 'tis not a feeling kiſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>That's the true ſport, ther's ſport more ſweet then this:</hi>
+                  </l>
+                  <l>
+                     <hi>To which, ere louers throughly doe attaine,</hi>
+                  </l>
+                  <l>
+                     <hi>They muſt attend, doe ſeruice, grieue, and faine.</hi>
+                  </l>
+                  <l>
+                     <hi>For this with Ladies honours beſt doth fit,</hi>
+                  </l>
+                  <l>
+                     <hi>Not to be conquered by</hi> Deſire, <hi>but</hi> Witt.</l>
+               </lg>
+               <p>In all ages, both paſt and preſent, neuer haue there beene more witty pollicies, more politicke circumuentions broached then in ſpeedie obtaining of delatorie loue: which is in it ſelfe ſo vrgent, ſo impatient of delayes, as the ſoundeſt ſleights, quainteſt deuiſes, haue beene ſtudied for accompliſhing, of reſt to vnreſt, eaſe to diſ<g ref="char:EOLhyphen"/>quiet, remedy to deſperation. Three things triall hath taught to be expedient for maſtery in loue. After choice, <hi>Patience</hi> to indure reproofes, <hi>Witt</hi> to procure content, <hi>Boldneſſe</hi> to attempt at opportunities. Vaine is <hi>patience</hi> without <hi>hope: hope</hi> deſperate without <hi>meanes: meanes,</hi> when occaſion proffers her forelock, and women tole<g ref="char:EOLhyphen"/>ration: <hi>hinderance,</hi> without <hi>boldneſſe.</hi> Yet <hi>boldneſſe</hi> without <hi>witte,</hi> is to no vſe, neither without <hi>witte</hi> ſhall <hi>time</hi> be euer found when to be <hi>bold.</hi> In a perfect louer therefore, all theſe three are iudicially cohered. Alſo if a curious ſurueior will vpon this approue, that louers haue beene witty, yet diſallow any wiſedom in this witt, by diſtinguiſhing a different diſcrepancie betwixt witt and wiſdome, ſince the one tendeth onely to folly of huma<g ref="char:EOLhyphen"/>nity, the other to conſideration of diuinity, I will anſwer, that perfect <hi>Louers,</hi> euen in this reſpect are perfectly <hi>wiſe,</hi> as with eaſe thus: being ouercome with the affection, of ſome excellently deſeruing beauty, with admitation of
+<pb facs="tcp:177174:17"/>the ſingular perfection thereof, with what curious work<g ref="char:EOLhyphen"/>manſhip it is framed, with what glorye of Maieſty it is endowed: it is an immediate occaſion, to bring them in ſerious co<g ref="char:cmbAbbrStroke">̄</g>ceit, of weighing the wo<g ref="char:cmbAbbrStroke">̄</g>ders of the heauens in compacting ſuch admirable quinteſſence, in ſo pre<g ref="char:EOLhyphen"/>cious a forme, by which they will deepely reuolue the dignitye of GOD in that mould, and truely ac<g ref="char:EOLhyphen"/>knowledge the weakeneſſe of their owne nature, in compariſon of <hi>Beauty.</hi> This is the ready and directeſt courſe, to force men to conſider their owne frailty, and magnifie the omnipotency of their creator, in faſhioning both. So as <hi>Loue</hi> is the onely line which leadeth man to the font of <hi>Wiſedome;</hi> that is, to the gloryfying of heauens power, and confeſſing mans imbecillity. Who then can deny? who will not allowe? that <hi>Perfect Louers are onely wiſe?</hi> onely wiſe! true, for men deuoted to contemplati<g ref="char:EOLhyphen"/>on of Theologie, are withdrawne from the abſolute, &amp; due reuerence (ſomtime) of him to whome they chiefly owe all due reuerence, by humane affaires: when <hi>Louers</hi> haue euermore the <hi>Idea</hi> of <hi>Peauty</hi> in their imaginations, and therefore hourely do adore their makers Architec<g ref="char:EOLhyphen"/>ture. <hi>Perfect Louers are onely wiſe:</hi> now againe to huma<g ref="char:EOLhyphen"/>nity: the dulleſt wit, the moſt vnſeaſoned capacity, being once ſalted with the taſt of loue, ſharpens his dulneſſe, and ſeaſons his capacity, to ſtudy any ſlieght, any deuice for ſetting a period to his deſires. Inſomuch, as no time ſhall euer preſent any oportunity of ſtudy, but all inuen<g ref="char:EOLhyphen"/>tion is vſed, all conceiptes imployed, for the fruition of his beloued: who beeing inioyed, yet his wittes are neuer idle, but induſtrious for conſeruation of what hee inioyes, as loath to impart from that
+<pb facs="tcp:177174:18"/>which with ſo much vigilancie he not eaſily obtained. As hitherto I haue proceeded with demonſtration of ex<g ref="char:EOLhyphen"/>amples: ſo now (to the purpoſe) will I inferre an inſtance, to the more effectuall proofe of this. The Greekes after the diſcurſion of <hi>Helen,</hi> preparing an expedition againſt <hi>Troy,</hi> both for acquittance of their iniury, and recouery of their falſe (neuer truly faire) Queene, ſtood not in more need of <hi>Achilles</hi> for his courage, then of <hi>Vliſſes</hi> for his counſaile: who being then newly married, to his per<g ref="char:EOLhyphen"/>fectly faire <hi>Penelope,</hi> was vpon good cauſe (moued in the tenderneſſe of his loue) vnwilling to that action: but ex<g ref="char:EOLhyphen"/>cuſe could not preuaile, except pollicie could finde ex<g ref="char:EOLhyphen"/>cuſe: he feares much, but loues more, which loue euen at an inſtant ripens his inuention: <hi>Loue</hi> ripeneth his <hi>inuen<g ref="char:EOLhyphen"/>tion,</hi> he faines madneſſe, and for <hi>madneſſe to aduiſe in ſober actions, would proue but a mad aduiſe, an vnaduiſed mad<g ref="char:EOLhyphen"/>neſſe.</hi> but he was diſcouered and went. Secondly, what vndoubted wiſedom in him, did charme his eares, againſt the incantations of the Syrens: the deuoute affection which he bore to his <hi>Penelope,</hi> quickning his apprehenſi<g ref="char:EOLhyphen"/>on. Was euer man a truer louer? and euer man more truly wiſe? It is infallibly certaine, certainly infallible, <hi>perfect louers are onely wiſe.</hi> Now it may be cauelled, that that cannot be, for how can <hi>Louers</hi> be <hi>wiſe,</hi> when <hi>Loue</hi> it ſelfe is both <hi>vaine, idle,</hi> and <hi>fooliſh?</hi> a toye? a meere con<g ref="char:EOLhyphen"/>ceit of fancie? But how vaine, fooliſh, idle, and fantaſti<g ref="char:EOLhyphen"/>call are they that ſo conceiue? <hi>Loue</hi> is the onely band, the alone obligation, that traffiques betwixt earthly crea<g ref="char:EOLhyphen"/>tures and heauenly Angels, that vnites woman to man, yea man to man, nay man to himſelfe, and himſelfe to <hi>God. Loue</hi> is the dignity of mans worth, not a <hi>blind Cupid,</hi> a ſenſual luſt, as Poets faine: but an earneſt and reaſo<g ref="char:EOLhyphen"/>nable
+<pb facs="tcp:177174:18"/>
+                  <hi>deſire</hi> of <hi>good,</hi> as authorities confirme. It is an <hi>entire conuinction</hi> of ſoules together.</p>
+               <lg>
+                  <l>
+                     <hi>Mutua ſors animi, pia commutatio mentis,</hi>
+                  </l>
+                  <l>
+                     <hi>ſub fido fidum est pectore pignus</hi> Amor.</l>
+                  <l>
+                     <hi>Quid magis est placidum? nihil est faelicius illo;</hi>
+                  </l>
+                  <l>
+                     <hi>Pax iucunda, manus ſplendida, tuta quies.</hi>
+                  </l>
+                  <l>
+                     <hi>Fulget in auricoma nitido cum robore forma:</hi>
+                  </l>
+                  <l>
+                     <hi>Ipſa ſuaſplendens gaudet</hi> Amore Venus.</l>
+               </lg>
+               <lg>
+                  <l>Loue <hi>is that tickling blood, which ſoftly creepes,</hi>
+                  </l>
+                  <l>
+                     <hi>Into the pleaſures of a quiet breſt:</hi>
+                  </l>
+                  <l>
+                     <hi>Preſenting pretty drcames in flumbring ſleepes,</hi>
+                  </l>
+                  <l>
+                     <hi>Andin a Ladies booſome takes his reſt.</hi>
+                  </l>
+                  <l>Loue <hi>bath's him in the channell of delight,</hi>
+                  </l>
+                  <l>
+                     <hi>Which louers ſigh for, and wiſh they alſo might.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Of twenty thouſand 't is the</hi> wittieſt <hi>paſsion,</hi>
+                  </l>
+                  <l>Wiſe, <hi>in foreſeeing of enſuing care:</hi>
+                  </l>
+                  <l>
+                     <hi>Makes louers prouident, yeelds conſolation,</hi>
+                  </l>
+                  <l>
+                     <hi>And checks the bad from ill, if ſo they dare.</hi>
+                  </l>
+                  <l>
+                     <hi>Loue is that fountaine, where the ſprings do lye,</hi>
+                  </l>
+                  <l>
+                     <hi>Whence ſweeteſt waters run, yet neuer drie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Loue is that harmleſſe</hi> prick, <hi>in pleaſant brier.</hi>
+                  </l>
+                  <l>
+                     <hi>Which doth moſt pleaſe the ſent, and breed</hi> deſire.</l>
+               </lg>
+               <p>Thus much for ſatiſfaction of the <hi>witty.</hi> Now briefly followes for a concluſion to the <hi>wiſe. Louers are perfect wiſe, and ſimply perfect:</hi> indeed abſolutely perfect, inſo<g ref="char:EOLhyphen"/>much as nothing is more expedient to the full accom<g ref="char:EOLhyphen"/>pliſhment of a wiſe man, then to be a Louer. Now would any man ſeeme to oppoſe himſelfe, to the aduerſe maintaining of what hath already been prooued? it will
+<pb facs="tcp:177174:19"/>be euident, he ſhall more toyle his braines to affirme an vntroth, then the praiſe or commendation hee expects, with a generall <hi>Plaudite</hi> will counteruaile. If any cham<g ref="char:EOLhyphen"/>pion will likewiſe be deſperate hardy, to vndertake a diſ<g ref="char:EOLhyphen"/>allowance, of theſe chalie<g ref="char:cmbAbbrStroke">̄</g>ged poſitions, queſtion-leſſe he neede not doubt, but he ſhall not ſoner be armed, but as ſoone foyled, and in the vulgar confeſſion of ſhame, ac<g ref="char:EOLhyphen"/>knowledge his deerely bought wilfulneſſe. But I leaue that to triall. I heere meane to be a pen man, no cham<g ref="char:EOLhyphen"/>pion.</p>
+            </div>
+            <div type="conclusion">
+               <head>Concluſion.</head>
+               <p>WOuld any man be gracious in a Ladies fauour? let him then ſubiect himſelfe to her wil. Would any be valiant and renowned for chiualty? let him ſerue vnder the colours of beauty. Would any ſtriue to be bleſſed in hauing a Lady truly conſtant? let him chooſe her truly faire. Would any be <hi>perfectly wiſe?</hi> let him be <hi>perfectly louing.</hi> Would any be happy? couragious? ſingular? or prouident? let him be a louer. In that life conſiſteth all happineſſe, all courage, all glory, all wiſdome. But as for ſuch, who doe <hi>frigeſcere ad ignem,</hi> I do deſiſt to inueigh againſt their cold ſpirits: onely in this, I hate them, that I pitty them.</p>
+               <lg>
+                  <l>
+                     <hi>He who will ſtriue to pleaſe each curious eye,</hi>
+                  </l>
+                  <l>
+                     <hi>Muſt freeze in ſdence. But I care not I,</hi>
+                  </l>
+                  <l>
+                     <hi>Let better fauours fauour mine indeuour,</hi>
+                  </l>
+                  <l>
+                     <hi>The vulgartaunting ſhall affright me neuer.</hi>
+                  </l>
+                  <l>
+                     <hi>May it pleaſe you, to whom it is intended.</hi>
+                  </l>
+                  <l>Then</l>
+                  <l>T'is glory to deſerue, though not commended.</l>
+                  <l>
+                     <hi>Non omnibus ſtudeo.</hi>
+                  </l>
+                  <l>
+                     <hi>non maleuolis.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177174:19"/>
+            <head>THE Monarchs meeting, Or The King of <hi>Denmarkes</hi> welcome, into England.</head>
+            <lg>
+               <l>NOw had the harueſt of the yeare brought forth,</l>
+               <l>The bleſſed frute of long expected hope,</l>
+               <l>And leueld with the toile of labours worth,</l>
+               <l>The crop of fatneſſe, to the trad's-mans ſcope.</l>
+            </lg>
+            <lg>
+               <l>Now were the bloſſomes ripened to the hand,</l>
+               <l>Of well deſeruing ſweat: when all anon,</l>
+               <l>The mighty ruler of a peacefull land,</l>
+               <l>Began to take his wiſht progreſſion.</l>
+            </lg>
+            <lg>
+               <l>Calme was the ſea, and gentle guſtes did blow,</l>
+               <l>A whiſtling gale vnto the flagges of peace:</l>
+               <l>Full were the ſtreames, and ſmooth ſoft tides did flow,</l>
+               <l>And gaue aſſurance of contented eaſe.</l>
+            </lg>
+            <lg>
+               <l>When on the bubbling beauty of fayre <hi>Thames,</hi>
+               </l>
+               <l>(Vrg'd by the princely loue of amitie)</l>
+               <l>A <hi>Chriſtian</hi> King, in ſtate, and maieſtie,</l>
+               <l>Was entertain'd with ſundry ſhowes of games.</l>
+            </lg>
+            <lg>
+               <l>The ſiluer Chriſtall ſtreame, was proud to beare,</l>
+               <l>The burthen of a perſon, each way graced,</l>
+               <l>With all the rites of humane <hi>Loue</hi> and <hi>Feare,</hi>
+               </l>
+               <l>In whoſe high lookes, <hi>honour</hi> was liuely placed.</l>
+            </lg>
+            <pb facs="tcp:177174:20"/>
+            <lg>
+               <l>Much welcome was the tydings of this newes,</l>
+               <l>Vnto the royall eare of worthy <hi>Iames:</hi>
+               </l>
+               <l>Preparing with all ſpeed, that ſpeed might vſe,</l>
+               <l>With his owne preſence to ennoble <hi>Thames.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Looke how did <hi>Ioue</hi> ſalute the minor Gods,</l>
+               <l>Inuiting all in heauen at a feaſt,</l>
+               <l>Where no more awe was reuerenc'd, no odds,</l>
+               <l>Betwixt his proper perſon and the reſt.</l>
+            </lg>
+            <lg>
+               <l>So did theſe Princes meet, in whoſe firſt meeting,</l>
+               <l>
+                  <hi>Ioy</hi> was aboundant in the truce of <hi>loue:</hi>
+               </l>
+               <l>Each inter-changing a concordant greeting,</l>
+               <l>Which in the peeres of both did comfort moue.</l>
+            </lg>
+            <lg>
+               <l>Ambitious was the riuer of this honour,</l>
+               <l>Knowing the value of the weight ſhe bore:</l>
+               <l>Grac'd that ſuch fauour <hi>Kings</hi> beſtow'd vpon her,</l>
+               <l>Bearing a richer burthen nere before.</l>
+            </lg>
+            <lg>
+               <l>Kings met, and Kings ſaluted one another,</l>
+               <l>Eyther reioycing in the others ſight:</l>
+               <l>Princes with Princes, brother ioy'd with brother,</l>
+               <l>Each ſolacing the other with delight.</l>
+            </lg>
+            <lg>
+               <l>A goodly view of Maieſtie it was,</l>
+               <l>To ſee ſuch intimated league betwixt them:</l>
+               <l>They ſtriu'd in kindneſſe how they might ſurpaſſe,</l>
+               <l>Sporting the ſeaſon which the tide prefixt them.</l>
+            </lg>
+            <pb facs="tcp:177174:20"/>
+            <lg>
+               <l>Like to a Prince in euery point aright,</l>
+               <l>He came, and like a Prince was entertained:</l>
+               <l>With all the tipes of dignity bedight,</l>
+               <l>with all the friendſhip, friendſhip could haue claimed.</l>
+            </lg>
+            <lg>
+               <l>O what a gladſome ſight of ioy it is?</l>
+               <l>When monarches ſo are linkt in amitie?</l>
+               <l>How ſtrengthened are thoſe Empires with ſafe bliſſe,</l>
+               <l>Where two ſuch Princes ioyne in vnitie?</l>
+            </lg>
+            <lg>
+               <l>Great both are in dominions, yet more great,</l>
+               <l>In being vertuouſly religious:</l>
+               <l>Freſh blooming piety doth praiſe beget,</l>
+               <l>In godly zeale. Let <hi>tyrants be litigious?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What <hi>He</hi> amongſt the ſtouteſt of contempt?</l>
+               <l>Full in command? and fuller in diſdaine?</l>
+               <l>Durſt any threats of en'mity attempt?</l>
+               <l>Or to oppoſe himſelfe againſt thoſe twaine?</l>
+            </lg>
+            <lg>
+               <l>Thoſe twaine! ſo firmly are they matcht together,</l>
+               <l>So euerlaſtingly affectionate.</l>
+               <l>So indiuidually combin'd together,</l>
+               <l>As they loue none of both, who do one hate.</l>
+            </lg>
+            <lg>
+               <l>Power with power, realme with realme vnited,</l>
+               <l>hearts ioyn'd with hearts, and hand imbrac'd in hand:</l>
+               <l>Should all the world of nations be excited,</l>
+               <l>Yet all the world could ſcarſe thoſe two withſtand.</l>
+            </lg>
+            <pb facs="tcp:177174:21"/>
+            <lg>
+               <l>Nor is it faining ſhew of ſmooth pretext,</l>
+               <l>But doubtleſſe troth of loue which brought him hither:</l>
+               <l>Let none with ſuch ſuſpition be perplext,</l>
+               <l>For then they neuer had thus come together.</l>
+            </lg>
+            <lg>
+               <l>Nor can it be ſuppoſ'd, a Prince ſo mighty,</l>
+               <l>ſo worthy in himſelfe, ſo abſolute.</l>
+               <l>Who hath ſo large a rule, a charge ſo weighty,</l>
+               <l>would leaue his countrie, but for meere repute.</l>
+            </lg>
+            <lg>
+               <l>Puiſſant is the <hi>Daniſh</hi> King, and ſtrong,</l>
+               <l>In all the ſinews of approued force:</l>
+               <l>Valiant, and able, for to right the wrong,</l>
+               <l>That ſhould proceed from any eager courſe.</l>
+            </lg>
+            <lg>
+               <l>It is no common thing ſeene euery day,</l>
+               <l>Scarce in an age, to ſee ſo great a ſtate:</l>
+               <l>From out his countries boundes to come away,</l>
+               <l>For viſitation of an neighbouring mate.</l>
+            </lg>
+            <lg>
+               <l>It is no common honour, that is done</l>
+               <l>Vnto our happy land by his arriuing:</l>
+               <l>Much <hi>worth</hi> thereby, and <hi>glory</hi> haue we won,</l>
+               <l>Our home-bred hearts, with ſtranger loues reuiuing.</l>
+            </lg>
+            <lg>
+               <l>Two Kings in <hi>England</hi> haue beene rarely ſeene,</l>
+               <l>Two Kings for ſingularitie renowned:</l>
+               <l>The like before hath hardly euer beene,</l>
+               <l>for neuer were two with more honour crowned.</l>
+            </lg>
+            <pb facs="tcp:177174:21"/>
+            <lg>
+               <l>This may we boaſt, and after times report,</l>
+               <l>How much the King of <hi>Denmarke</hi> grac'd our age:</l>
+               <l>A King of ſo much eminence, ſuch port,</l>
+               <l>By his arriuall did his loue ingage.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>England</hi> with <hi>Denmarke, Denmarke</hi> eke with vs,</l>
+               <l>Are firmely now in league, conioyned in one:</l>
+               <l>
+                  <hi>Seauen Kingdomes</hi> now againe vnited, thus</l>
+               <l>Are ſtrength'ned, ſo as ſtronger can be none.</l>
+               <l>Then as a certaine and welwiſhing greeting,</l>
+               <l>We thus applaud the monarchs happy meeting.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>HAyle Princely ſtemme of great magnificence?</hi>
+               </l>
+               <l>
+                  <hi>Iſſue of royall blood, who doſt commence</hi>
+               </l>
+               <l>
+                  <hi>True inſtance of thy faſt vndoubted loue,</hi>
+               </l>
+               <l>
+                  <hi>And by thy comming certainely approue</hi>
+               </l>
+               <l>
+                  <hi>The pledge of peace, thus low in humbleſt heart</hi>
+               </l>
+               <l>
+                  <hi>Regreetes vnto thy truce doe we impart.</hi>
+               </l>
+               <l>
+                  <hi>With fit applauſe our thankes deuoutly running,</hi>
+               </l>
+               <l>
+                  <hi>Giues welcome to the honour of thy comming.</hi>
+               </l>
+               <l>Time <hi>cannot raſe, nor amity ſurceaſe</hi>
+               </l>
+               <l>
+                  <hi>Betwixt our realme and thine a long liu'd peace.</hi>
+               </l>
+               <l>
+                  <hi>Whiles thoughts are vndefil'd, and credit true,</hi>
+               </l>
+               <l>
+                  <hi>From age to age this league will ſtill renue.</hi>
+               </l>
+               <l>
+                  <hi>And thou thy ſelfe (great King of</hi> Danes <hi>wilt ioy,</hi>
+               </l>
+               <l>
+                  <hi>Counting the hazards which thou didſt imploy</hi>
+               </l>
+               <l>
+                  <hi>Daungers of thankes: by taſting approbation</hi>
+               </l>
+               <l>
+                  <hi>Of ſpotleſſe friendſhip with our willing nation.</hi>
+               </l>
+               <l>
+                  <hi>We are not ſubtile</hi> French, <hi>to fawne and flatter:</hi>
+               </l>
+               <l>
+                  <hi>Nor</hi> Spaniards <hi>hot in ſhew, yet cold in matter.</hi>
+               </l>
+               <pb facs="tcp:177174:22"/>
+               <l>
+                  <hi>Trothleſſe</hi> Italian <hi>fleeting</hi> Iriſh wiles,</l>
+               <l>
+                  <hi>(Whoſe truſt when moſt proteſting moſt beguiles)</hi>
+               </l>
+               <l>
+                  <hi>We deeme diſhonour.</hi> Germaine policies,</l>
+               <l>
+                  <hi>Or euer changing</hi> Indian ſopperies</l>
+               <l>
+                  <hi>We ſpurne. Know we are</hi> Engliſh <hi>hating wrongs,</hi>
+               </l>
+               <l>
+                  <hi>Bearing our thoughts decipher'd in our tongs.</hi>
+               </l>
+               <l>
+                  <hi>Rather the ſunne may in his courſes alter,</hi>
+               </l>
+               <l>
+                  <hi>Then we in</hi> true-meant truſt <hi>our promiſe faulter:</hi>
+               </l>
+               <l>
+                  <hi>Which of our chiefeſt emulating foes</hi>
+               </l>
+               <l>
+                  <hi>Can iuſtly taxe vs? but we euer choſe</hi>
+               </l>
+               <l>
+                  <hi>To die with fame, then liue with infamy,</hi>
+               </l>
+               <l>
+                  <hi>Purchaſ'd with diſeſteemed trechery.</hi>
+               </l>
+               <l>
+                  <hi>What needs an inſtance? rumor will auow,</hi>
+               </l>
+               <l>
+                  <hi>VVe haue our troth ingrauen in our brow.</hi>
+               </l>
+               <l>"Who are in nature, falſe ye free in name,</l>
+               <l>"Are ſeruile ſlaues to feare, and fooles to ſhame.</l>
+               <l>
+                  <hi>VVhat more? we are thy friends, and thou art our,</hi>
+               </l>
+               <l>
+                  <hi>Thy loue is ours, and our force thy power.</hi>
+               </l>
+               <l>
+                  <hi>Long may this happy thred of faith be wouen,</hi>
+               </l>
+               <l>
+                  <hi>And nere haue diſsolution but with heauen.</hi>
+               </l>
+               <l>
+                  <hi>Fatall and ioyous doth the knot begin,</hi>
+               </l>
+               <l>Then who doth breake it firſt, commits firſt ſin.</l>
+               <l>
+                  <hi>Lo then great monarch, with what words of zeale,</hi>
+               </l>
+               <l>
+                  <hi>Thy comming wee imbrace, and hopes reueale</hi>
+               </l>
+               <l>
+                  <hi>Of linkt coniunction: preſt to gratifie</hi>
+               </l>
+               <l>
+                  <hi>That loue, which thou with loue doſt ratifie.</hi>
+               </l>
+               <l>
+                  <hi>Here ſpeakes the clamour of a publicke voyce,</hi>
+               </l>
+               <l>
+                  <hi>Which ſpeaking, all do publikely reioyce</hi>
+               </l>
+               <l>
+                  <hi>Thy ſafe arriuall:</hi> England <hi>thankes the honour,</hi>
+               </l>
+               <l>
+                  <hi>Which by thy preſence thou beſtoweſt vpon her.</hi>
+               </l>
+               <pb facs="tcp:177174:22"/>
+               <l>
+                  <hi>Sounding lowd Ecchoes of thy Kingly fame,</hi>
+               </l>
+               <l>
+                  <hi>And making trophees, to adorne thy name.</hi>
+               </l>
+               <l>
+                  <hi>The Clarions breath thy welcome, Bells do ring,</hi>
+               </l>
+               <l>
+                  <hi>Praiſe ſhoutes, whiles all thy friends thus ſweetly ſing.</hi>
+               </l>
+            </lg>
+            <div type="song">
+               <head>The applauſe Song for the King of <hi>Denmarkes</hi> arriuall.</head>
+               <lg>
+                  <l>IN the moſt happy ſeaſon of the yeare,</l>
+                  <l>When fayreſt ſun-ſhine gliſtered on the earth,</l>
+                  <l>The royall King of <hi>Denmarke</hi> did appeare,</l>
+                  <l>And tun'd the hearts of <hi>England</hi> full with mirth:</l>
+                  <l>In goodly maieſty, and princely cheere,</l>
+                  <l>Euen in the fulleſt crop of harueſt's birth:</l>
+                  <l>When birdes with pleaſant notes did ſweetly ſing,</l>
+                  <l>To giue a hearty welcome to the King.</l>
+                  <l>Prettily, prettily,</l>
+                  <l>With muſick ſweet,</l>
+                  <l>Did <hi>Philomele</hi> merily,</l>
+                  <l>and ioyfully,</l>
+                  <l>and euer prettily,</l>
+                  <l>The noble King of <hi>Denmarke</hi> greet.</l>
+                  <l>Welcome to <hi>England,</hi> Prince of high degree,</l>
+                  <l>And all our ſong ſhall euer welcome be.</l>
+               </lg>
+               <lg>
+                  <l>Our King himſelfe reioyced in his ſight,</l>
+                  <l>His preſence to the Court did breed delight,</l>
+                  <l>Blithe was the country, and the Citty proud.</l>
+                  <l>Cornets with trumpets, ſhrill did blow, and lowd.</l>
+                  <pb facs="tcp:177174:23"/>
+                  <l>To welcome to our land,</l>
+                  <l>With hearty greeting:</l>
+                  <l>(By our Kings command)</l>
+                  <l>The Monarches meeting.</l>
+                  <l>Which we fulfilling,</l>
+                  <l>With loue and mindes willing,</l>
+                  <l>Ioyn'd together,</l>
+                  <l>Welcome hither,</l>
+                  <l>Friendly,</l>
+                  <l>and euer</l>
+                  <l>kindly,</l>
+                  <l>The <hi>Daniſh</hi> King, a Prince of high degree,</l>
+                  <l>For all our ſong ſhall euer <hi>welcome</hi> bee.</l>
+                  <l>To <hi>welcome</hi> all our notes, and loue doth tend,</l>
+                  <l>In that ſence we began, with that we end.</l>
+               </lg>
+               <q xml:lang="lat">
+                  <hi>Cantibus &amp; carmine.</hi>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177174:23" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
